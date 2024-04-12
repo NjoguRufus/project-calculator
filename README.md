@@ -1,3 +1,5 @@
+# live link 
+  https://njogurufus.github.io/project-calculator/
 # RSG CUSTOM CALCULATOR
 In this project, I have created a calculator using React.js.
 
@@ -34,18 +36,10 @@ what is entailed in this project:
 - Calculator
 - Calculator Buttons
 - Calculator Display
-- lso When you press the RUFUS button 
+- lso When you press the RUFUS button it brings an Alert buttron to show what you get from using the calculator
 
-
-##
-
-##
-
-##
-
-##t btrings an Alert buttron to show what you get from using the calculator
-
-
+## git hub live link : 
+ https://njogurufus.github.io/project-calculator/
 
 ##
 
